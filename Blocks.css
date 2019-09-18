@@ -1,0 +1,97 @@
+#background{
+width: 500px;
+height: 575px;
+background-color: lightgrey;
+border-style: dotted;
+border-color: black;
+border-width: 2px;
+border-radius: 5px;
+border-right: 1px groove rgb(100,100,100);
+border-left: 1px groove rgb(100,100,100);
+
+}
+.top{
+display: inline-block;
+width: 200px;
+height:95px;
+background-color: darkred;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+margin: 20px;
+
+}
+.tl{
+
+}
+.tr{
+
+}
+.second{
+width: 450px;
+height: 95px;
+background-color: darkblue;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+margin-top: 10px;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 10px;
+
+}
+.third{
+display: inline-block;
+width: 120px;
+height: 95px;
+background-color: gold;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+margin-top: 10px;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 5px;
+
+}
+.cl{
+
+}
+.cm{
+
+}
+.cr{
+
+}
+.bottom{
+width: 450px;
+height: 150px;
+background-color: green;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+margin: 20px;
+
+}
+.insideBottom{
+display: inline-block;
+width: 112px;
+height: 100px;
+background-color: purple;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+margin: 20px;
+padding-top: 3px;
+
+}
+.bl{
+margin-right: 85px;
+
+}
+.br{
+margin-left: 85px;
+
+}
+
+
